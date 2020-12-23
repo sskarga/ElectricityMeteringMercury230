@@ -1,0 +1,12 @@
+Error code
+
+Ошибки счетчика
+
+EC1000: Mercury crc exception			- Ошибка котрольной суммы 
+EC1001: Invalid command or parameter	- Недопустимая команда или параметр
+EC1002: Internal counter error			- Внутренняя ошибка счетчика 
+EC1003: Insufficient access level		- Недостаточен уровень доступа 
+EC1004: Internal clock was adjusted		- Внутренние часы корректировались
+EC1005: Communication channel not open	- Не открыт канал связи
+EC1006: Invalid packet					- Пакет поврежден.
+EC1007: Password empty or invalid lenght - Неверная длина пароля.
